@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ParallelStreams",
+            "request": "launch",
+            "mainClass": "ParallelStreams",
+            "projectName": "JavaStreams_cf9031bb"
+        },
+        {
+            "type": "java",
+            "name": "CollectorGrouping",
+            "request": "launch",
+            "mainClass": "CollectorGrouping",
+            "projectName": "JavaStreams_cf9031bb"
+        },
+        {
+            "type": "java",
+            "name": "CollectorPartitioning",
+            "request": "launch",
+            "mainClass": "CollectorPartitioning",
+            "projectName": "JavaStreams_cf9031bb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FilteringStreams",
+            "request": "launch",
+            "mainClass": "FilteringStreams",
+            "projectName": "JavaStreams_cf9031bb"
+        },
+        {
+            "type": "java",
+            "name": "LazyEvaluation",
+            "request": "launch",
+            "mainClass": "LazyEvaluation",
+            "projectName": "JavaStreams_cf9031bb"
+        },
+        {
+            "type": "java",
+            "name": "MapFunction",
+            "request": "launch",
+            "mainClass": "MapFunction",
+            "projectName": "JavaStreams_cf9031bb"
+        }
+    ]
+}
